@@ -1,0 +1,16 @@
+*{
+  margin: 10px;
+  padding: 0px;
+}
+
+#aid{
+  background-color: blueviolet;
+  color: aliceblue;
+}
+#nav{
+  background-color: blue;
+  color: red;
+}
+
+
+

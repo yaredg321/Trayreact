@@ -1,0 +1,10 @@
+*{
+  margin: 10px;
+  padding: 0px;
+}
+#Aid{
+  background-color: blue;
+}
+#aid{
+  background-color: blueviolet;
+}
